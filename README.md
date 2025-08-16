@@ -1,4 +1,6 @@
 
+<img width="2560" height="476" alt="banner" src="https://github.com/user-attachments/assets/c8d31a18-b18a-4a0c-974e-69ee3a721e18" />
+<hr>
 
 ## Hi there, I'm Yazan  
 
