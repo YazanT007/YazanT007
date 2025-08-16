@@ -25,6 +25,7 @@
 ## [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,cpp,mongodb,firebase)](https://skillicons.dev)
 
 <img src="https://cdn.simpleicons.org/lucid/282C33" alt="Lucid" width="40" height="40"/>
+<img src="./icons/logo.svg" alt="Logo" width="40" height="40"/>
 
 
 
