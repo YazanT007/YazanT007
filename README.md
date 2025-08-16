@@ -7,7 +7,7 @@
 🎓 Software Engineering student at **UTS**, majoring in **Web Development**  
 🛠️ Passionate about **Software Architecture** and **UI Styling**
 
-📂 Here, you’ll find projects, features, and pages that I’ve created during my university studies and personal learning journey.
+📂 Here, you’ll find projects, features, and interactive pages that I’ve created during my university studies and personal learning journey
 <hr>
 
 ## 🚀 Projects I'm Currently Working On *(Available soon)*  
