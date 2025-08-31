@@ -29,7 +29,7 @@
 ## [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,cpp,mongodb,firebase)](https://skillicons.dev)
 
 <img src="https://cdn.simpleicons.org/lucid/282C33" alt="Lucid" width="45" height="45" />&nbsp; <img src="./icons/lucid.svg" alt="Logo" width="45" height="45" />
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,aws,docker,jest,windows,linux)](https://skillicons.dev)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,aws,docker,jest,windows,linux,netlify)](https://skillicons.dev)&nbsp;
 <img src="https://cdn.simpleicons.org/trello/0052CC" alt="trello" width="45" height="45" />&nbsp;
 <img src="https://cdn.simpleicons.org/jira/0052CC" alt="trello" width="45" height="45" />
 
