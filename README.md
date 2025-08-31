@@ -12,8 +12,7 @@
 
 ## 🚀 Projects I'm Currently Working On *(Available soon)*  
 - 🏷️ Full functional **Reverse Auction Simulation Game** with AI competitors  
-- 🧑‍💻 Website Clone  
-- 🌐 Personal **Portfolio Website**  
+- 🧑‍💻 React Mini Projects    
 
 <hr>
 
