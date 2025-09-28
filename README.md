@@ -11,14 +11,14 @@
 <hr>
 
 ## 🚀 Projects I'm Currently Working On *(Available soon)*  
-- 🏷️ Full functional **Reverse Auction Simulation Game** with AI competitors  
-- 🧑‍💻 React Mini Projects    
+- Full functional **Reverse Auction Simulation Game** with AI competitors  
+- React Mini Projects    
 
 <hr>
 
 ## 📚 Skills I'm Currently Learning  
-- ⚛️ React  
-- 🎨 Tailwind CSS  
+- React  
+- Tailwind CSS  
 
 <hr>
 
