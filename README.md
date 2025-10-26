@@ -4,25 +4,25 @@
 
 ## Hi there, I'm Yazan  
 
-🎓 Software Engineering student at **UTS**, majoring in **Web Development**  
-🛠️ Passionate about **Software Architecture** and **UI Styling**
+Software Engineering student at **UTS**, majoring in **Web Development**  
+Passionate about **Software Architecture** and **UI Styling**
 
-📂 Here, you’ll find projects, features, and interactive pages that I’ve created during my university studies and personal learning journey
+Here, you’ll find projects, features, and interactive pages that I’ve created during my university studies and personal learning journey
 <hr>
 
-## 🚀 Projects I'm Currently Working On *(Available soon)*  
+## Projects I'm Currently Working On *(Available soon)*  
 - Full functional **Reverse Auction Simulation Game** with AI competitors  
 - React Mini Projects    
 
 <hr>
 
-## 📚 Skills I'm Currently Learning  
+## Skills I'm Currently Learning  
 - React  
 - Tailwind CSS  
 
 <hr>
 
-## 💻 Technical Skills  
+## Technical Skills  
 ## [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react)](https://skillicons.dev)
 
 ## [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,cpp,mongodb,firebase)](https://skillicons.dev)
